@@ -1,0 +1,2 @@
+# DockerizeJenkins
+# Practices assessment
